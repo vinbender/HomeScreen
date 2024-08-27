@@ -1,0 +1,21 @@
+.clock-container{
+    /*backdrop-filter: blur(5px);*/
+    width: 100 vw;
+    padding: 10px 0;
+    background-color: rgba(211, 0, 0, 0.805);
+  }
+  .clock{
+    color: white;
+    font-size: 6rem;
+    font-weight:bold;
+    font-family: monospace;
+    text-align: center;
+    text-shadow: 3px 3px 5px rgba(0, 0, 0, 0.741);
+  
+    /* vertical centering
+    display:flex;
+    justify-content:center;
+    min-height: 100vh;
+    align-items:center;*/
+  
+  }
